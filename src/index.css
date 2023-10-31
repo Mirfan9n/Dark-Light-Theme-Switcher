@@ -1,0 +1,13 @@
+.mainContanor{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+body{
+  /* background-color: #dfc4c4; */
+}
+.btn{
+  border: 2px solid black !important;
+}
